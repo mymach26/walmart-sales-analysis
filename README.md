@@ -68,5 +68,5 @@ walmart-sales-analysis/
 
 ## Author
 **Mach To My**
-Python | SQL | Power BI 
+| Python | SQL | Power BI 
 📧 mymach26@gmail.com
